@@ -177,7 +177,7 @@ client.on("message",async message => {
     }
 });
  
-async function skip(queue,message,client)
+async function skip(queue,message,client,queueConstruct)
 {
     if(!queue.songs || queue.songs === undefined || queue.songs.length === 0 || queue.songs.length === null)
     {
@@ -244,7 +244,7 @@ async function tryplaynext(song, message, client,bass, begintime, queueConstruct
             type: "opus"
         })
         dispatcher.on("finish", async () => {
-            skip(queue,message,client)
+            skip(queue,message,client,queueConstruct)
         })
         dispatcher.setVolumeLogarithmic(queue.volume / 100);
        
