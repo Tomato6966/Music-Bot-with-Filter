@@ -84,7 +84,7 @@ You can always Support me by inviting one of my **own Discord Bots**
 
 [@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
 
-## emojis
+## Emojis of [this repo](https://github.com/Tomato6966/Musicium)
 
 [![](https://cdn.discordapp.com/emojis/770290491731476500.png)](https://cdn.discordapp.com/emojis/770290491731476500.png) 
 [![](https://cdn.discordapp.com/emojis/769675858431705109.png)](https://cdn.discordapp.com/emojis/769675858431705109.png) 
