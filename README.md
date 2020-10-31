@@ -1,4 +1,4 @@
-# Musicium
+# Music Bot with Filters | Musicium
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tomato6966/)
@@ -43,15 +43,14 @@ You can always [invite](https://bit.ly/Musicium) the Bot to your Server if you w
  
  **5.** start the bot with **`node index.js`**
 
+*This Bot uses standard emojis, so just downloading it and filling in the TOKEN will make the Bot work!*
+
 ## Usage - config.json
 
 ```json
 {
   "TOKEN": "",
   "PREFIX": "+",
-  "approveemoji": "EMOJIID",
-  "denyemoji": "EMOJIID",
-  "erroremoji": "EMOJIID"
 }
 ```
 
